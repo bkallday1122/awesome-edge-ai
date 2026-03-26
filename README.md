@@ -39,6 +39,10 @@ A curated list of edge devices for AI applications.
 - [Sipeed MAIX](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module#/)
 - TI Vision AcclerationPac
 
+### Retro Hardware AI Inference
+
+- [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) - World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on the MIPS R4300i CPU (93.75 MHz, 4 MB RAM) at 60 tok/s. Demonstrates AI inference on the most constrained hardware possible — a 1996 game console. Uses RSP vector unit for matrix multiplication.
+
 ### Software Libraries
 
 - [Tensorflow Lite](https://www.tensorflow.org/lite)
