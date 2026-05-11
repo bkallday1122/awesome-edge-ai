@@ -20,8 +20,8 @@ A curated list of edge devices for AI applications.
 - [Intel Neural Compute Stick 2](https://www.intel.ai/intel-neural-compute-stick-2-smarter-faster-plug-and-play-ai-at-the-edge/) - Second generation module stick which is faster than previous one based TOPS measure. It needs host device.
 - [Nvidia Jetson AGX Xavier](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-agx-xavier/) - Most power single board computer from NVIDIA designed for autonomous systems (cars etc.). Contains 512 Cuda core Volta GPU with Tensor Cores and 16 GB RAM.
 - [Nvidia Jetson Nano](https://devblogs.nvidia.com/jetson-nano-ai-computing/) - Cost efficient alternative to NVIDIA boards. Performance is equivalent to the TX1. Contains ARM CPU and 128 Cuda core Maxwell GPU and has 4 GB RAM.
-- [Nvidia Jetson TX1](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX1) - Contains ARM CPU and 128 Cuda core Maxwell GPU. `It seems like this board is replaced by Nano.` 
-- [Nvidia Jetson TX2](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/?section=jetsonTX2) - Contains ARM CPU and 256 Cuda core Pascal GPU and has 8 GB/4 GB RAM.
+- [Nvidia Jetson TX1](https://developer.nvidia.com/embedded/jetson-tx1) - Contains ARM CPU and 128 Cuda core Maxwell GPU. `It seems like this board is replaced by Nano.`
+- [Nvidia Jetson TX2](https://developer.nvidia.com/embedded/jetson-tx2) - Contains ARM CPU and 256 Cuda core Pascal GPU and has 8 GB/4 GB RAM.
 - [OrangePi AI Stick](http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/) - ASIC based neural accelerator. It needs host device.
 - [Sipeed MAIX Go Suit](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module) - Single board computer based on RISC-V AI chip, KPU(Neural Network Processor) and APU(Audio Processor). It contains on-board DVP camera and LCD screen for visual output.
 - [SmartEdge Agile](https://www.avnet.com/wps/portal/integrated/solutions/capabilities/smartedge-agile/) - Modular Edge Device with IOT capabilities.
@@ -60,4 +60,3 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 <!-- BADGES -->
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-
