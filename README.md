@@ -27,7 +27,6 @@ A curated list of edge devices for AI applications.
 - [SmartEdge Agile](https://www.avnet.com/wps/portal/integrated/solutions/capabilities/smartedge-agile/) - Modular Edge Device with IOT capabilities.
 - [SparkFun Edge Development Board](https://www.sparkfun.com/products/15170) - Apollo3 Blue microcontroller based board that contains microphones and 3-axis accelerometer and OV7670 camera interface. Runs on single coin battery. Supports Tensorflow-lite.
 - [UP Squared AI Vision X](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html) - Single board computer contains Intel ATOM CPU and Movidius Myriad as neural accelerator. It has 4 GB RAM.
-- [Xnor.ai Solar Powered Module](https://www.xnor.ai/solar-powered-ai/) - Very low power unit which can be running with only using solar panels. `More technical specifications needed.`
 
 
 ### Custom Accelerators
